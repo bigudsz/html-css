@@ -1,0 +1,41 @@
+h1 {
+    background-color: blueviolet;
+    position: absolute;
+    top: -30px;
+    left: 250px;
+    animation-duration: 1ms;
+    outline: auto;
+    text-align: center;
+    text-overflow: initial;
+    text-transform: capitalize;
+    text-shadow: none;
+    box-shadow: 4cap;
+    transform-box: stroke-box;
+    font-size: 300%;
+    font-weight: 40%;
+    
+}
+h2 {
+    background-color: blue;
+    position: absolute;
+    width: 300px;
+    height: 40px;
+    top: 50px;
+    left: 300px;
+    animation: infinite;
+    animation-duration: 1ms;
+    outline-color: white;
+    text-align: center;
+    text-overflow: initial;
+    outline: auto;
+    font-size: 200%;
+    font-weight: 20%;
+    
+
+}
+
+h3 {
+
+    text-align: center;
+    
+}
